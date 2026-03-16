@@ -304,7 +304,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
@@ -313,14 +313,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Paper team for the excellent server software
 - Citizens plugin for NPC API reference
 - All contributors and users of BattleLock
+- darkkarma111 fo helping develop this plugin
 
 ---
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/battlelock/issues)
-- **Discord**: [Join our Discord](https://discord.gg/yourdiscord)
-- **Wiki**: [Documentation](https://github.com/yourusername/battlelock/wiki)
+- **Discord**: [Join our Discord](https://discord.gg/GR7H2ZJr2M)
 
 ---
 
